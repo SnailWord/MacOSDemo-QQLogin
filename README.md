@@ -5,4 +5,4 @@ Demo of Mac OS development.
 后续这个Demo会加入其他功能。
 
 谢谢关注。
-学习沟通QQ：969377508
+# 学习沟通QQ：969377508@qq.com
